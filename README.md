@@ -1,6 +1,7 @@
 Calculo de desconto - Projeto em python
 
 Utilizou if e elif para analisar o valor da compra e aplicar o desconto corretamente
+    
     Sendo 3 tipos de desconto:
     - 5% para compras até 199 reais
     - 10% até 299 reais
